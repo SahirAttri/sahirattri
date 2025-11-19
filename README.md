@@ -12,4 +12,5 @@
 - Class 12 student who likes maths, coding experiments, and understanding **“why something works”** rather than just the final answer,  
 - Played **National-level chess (Under-5)** and ranked #8 then, FIDE ID: **46653147** — chess taught me patience and clear thinking.  
 - I **love music** and notice patterns in rhythm, which connects to my interest in maths. Difficult to explain though..😛
-- Still learning and improving, and this space is: **my small record** of curiosity and progress.
+
+   .......... still learning and improving, and this space is: **my small record** of curiosity and progress.
