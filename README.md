@@ -1,16 +1,15 @@
 ## 🎯 Aspiration
 
-- Exploring the intersection of **Mathematics, Computing, and quantitative problem-solving**.  
-- Building small Python projects that apply **school-level maths** (probability, calculus, matrices) to simulations and real-world models.  
-- Gradually developing a portfolio that reflects **conceptual clarity**, disciplined learning, and curiosity-driven experimentation.  
-- Interested in how mathematical structures translate into **computational logic**, data patterns, and basic quantitative models.
+- I enjoy understanding how **mathematical ideas turn into small bits of code** and solve simple problems around us.
+- Hoping to explore Maths & Computing more deeply in college and understand how it connects to real systems, data, and logic.
+- Use Python for building simple projects based on the topics I study in school — like probability, functions, matrices, and basic modelling.  
+
 
 ---
 
 ## 👤 Personal
 
-- Class 12 student (CBSE) with a strong inclination toward **Maths + Computing**.  
-- Former **National-level Chess player (Under-5), India — Rank #8**, FIDE ID: **46653147**.  
-- Enjoy documenting learning openly so others can follow the journey from first principles.  
-- Ardent **music lover**, especially interested in how rhythm and structure mirror patterns found in math and logic.  
-- Using this space to grow step-by-step and build a thoughtful academic foundation for university studies.
+- Class 12 student who likes maths, coding experiments, and understanding **“why something works”** rather than just the final answer,  
+- Played **National-level chess (Under-5)** and ranked #8 then, FIDE ID: **46653147** — chess taught me patience and clear thinking.  
+- I also love listening to music and noticing patterns in rhythm, which somehow connects to my interest in maths. Difficult to explain though..😛
+- Still learning and improving, and this space is simply: my small record of curiosity and progress.
