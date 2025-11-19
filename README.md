@@ -1,6 +1,6 @@
 ## 🎯 Aspiration
 
-- I enjoy understanding how **mathematical ideas turn into small bits of code** and solve simple problems around us.
+- I enjoy understanding how **mathematical ideas turn into small bits of code** and then solve simple problems around us. Wow!
 - Use Python for building **simple projects** based on my school study, like: probability, functions, matrices & basic modelling.
 - Hoping to **explore maths & computing more deeply** in college and understand how it connects to real systems, data, and logic.
   
